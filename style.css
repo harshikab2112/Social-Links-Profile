@@ -100,7 +100,7 @@ a {
 
 .container-content small {
   color: var(--green);
-  margin: none;
+  margin: 0;
   font-size: 12px;
   font-weight: 700;
 }

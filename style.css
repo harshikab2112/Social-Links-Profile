@@ -26,7 +26,7 @@
 html,
 body {
   height: 100%;
-  margin: 5px;
+  margin: 0;
 }
 
 body {
@@ -55,7 +55,6 @@ body {
 }
 
 .main-container:hover {
-  transform: scale(1.03);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -100,9 +99,12 @@ a {
 
 .container-content small {
   color: var(--green);
-  margin: 5px;
   font-size: 12px;
   font-weight: 700;
+}
+
+.container-content p {
+  font-size: 13px;
 }
 
 /* Social Links */

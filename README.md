@@ -1,6 +1,6 @@
 # Frontend Mentor - Social Links Profile
 
-![Design preview for the Social links profile coding challenge](./preview.jpg)
+![Design preview for the Social links profile coding challenge](./preview.png)
 
 ## 👋 Welcome!
 
@@ -10,7 +10,7 @@ This is my solution to the **Social Links Profile** challenge on [Frontend Mento
 
 ## 🚀 Live Preview
 
-- 🔗 **Live Site**: [Your live URL here]
+- 🔗 **Live Site**: [LIve Preview](https://social-links-profile-hb.vercel.app/)
 - 📂 **Challenge Link**: [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6d)
 - 💻 **Coded by**: Harshika Bansal
 
@@ -41,7 +41,7 @@ While building this project, I improved my understanding of:
 
 ## 📁 Folder Structure
 
-📦 root
+```
 ├── assets
 │ ├── fonts
 │ └── images
@@ -51,24 +51,15 @@ While building this project, I improved my understanding of:
 │ └── mobile-design.png
 ├── index.html
 ├── style.css
+├── preview.png
 ├── README.md
-
-yaml
-Copy code
+```
 
 ---
 
-## 📸 Final Result
+## 📐 Design
 
-> This is how the final card looks after completing the challenge.
-
-![Final Screenshot](./assets/images/screenshot.png) <!-- Add your actual screenshot here -->
-
----
-
-## 📐 Design Reference
-
-These were the official design files used for reference during development:
+These are the screenshots of the website in desktop, mobile and active status preview.
 
 | Desktop Design                                 | Mobile Design                                | Active States                                |
 | ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
@@ -86,16 +77,6 @@ These were the official design files used for reference during development:
 
 ---
 
-## 📤 Deployment Instructions
-
-You can host this site using any of the following free services:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
----
-
 ## 🧪 Getting Started
 
 To run this project locally:
@@ -109,7 +90,7 @@ To run this project locally:
 ## 🤝 Acknowledgments
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io)
-- Fonts provided via local files from challenge starter pack
+- Fonts provided via local files from the challenge starter pack
 
 ---
 
